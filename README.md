@@ -10,8 +10,12 @@ Analysis
 
 This project uses Pandas,Numpy,Seaborn and Matplotlib to answer basic sales related questions as follows:
 
-What was the best month for sales and how much was earned?
-Which city had the highest sales?
-Which product was sold the most?
-Which sector purchases more?
-And most number of buyers according to gender?
+1-What was the best month for sales and how much was earned?
+
+2-Which city had the highest sales?
+
+3-Which product was sold the most?
+
+4-Which sector purchases more?
+
+5-And most number of buyers according to gender?
